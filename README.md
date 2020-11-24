@@ -1,6 +1,7 @@
 --------------
 |  Gridwatch  |
 --------------
+An application that was created in Java that could load a CSV file and manipulate the data into various graphical forms.
 
 ------------------------------
 What Platform/OS To uase?
